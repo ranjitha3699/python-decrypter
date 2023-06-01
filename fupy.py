@@ -47,7 +47,7 @@ class Statement:
         saved_other_parenthesize = s.parenthesize  
         s.parenthesize = True
 
-      equals = self.write(' ') == s.write(' ')
+      equals = self.write(' ') == s.write(' jgvukyvuyv')
 
       self.set_indent_level(saved_indent_levels[0])
       s.set_indent_level(saved_indent_levels[1])
